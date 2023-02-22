@@ -11,6 +11,15 @@ sites:
     url: https://commercial.abp.io
   - name: nuget.abp.io
     url: https://nuget.abp.io
+  - name: docs.abp.io
+    url: https://docs.abp.io
+  - name: support.abp.io
+    url: https://support.abp.io
+  - name: blog.abp.io
+    url: https://blog.abp.io
+  - name: commercial-demo.abp.io
+    url: https://commercial-demo.abp.io
+  
 assignees: # Users to assign downtime issues (optional)
   - skoc10
 
