@@ -148,19 +148,19 @@
     "url": "https://commercial-mvc-test-app.abp.io",
     "icon": "https://icons.duckduckgo.com/ip3/commercial-mvc-test-app.abp.io.ico",
     "slug": "commercial-mvc-test-app-abp-io",
-    "status": "down",
-    "uptime": "99.85%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
-    "time": 1060,
-    "timeDay": 1060,
-    "timeWeek": 1060,
-    "timeMonth": 1060,
-    "timeYear": 1060,
+    "status": "up",
+    "uptime": "91.16%",
+    "uptimeDay": "91.16%",
+    "uptimeWeek": "91.16%",
+    "uptimeMonth": "91.16%",
+    "uptimeYear": "91.16%",
+    "time": 1114,
+    "timeDay": 1114,
+    "timeWeek": 1114,
+    "timeMonth": 1114,
+    "timeYear": 1114,
     "dailyMinutesDown": {
-      "2023-02-22": 0
+      "2023-02-22": 10
     }
   }
 ]
