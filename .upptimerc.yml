@@ -28,7 +28,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: st.abp.io
   baseUrl: /abpio-status
-  logoUrl: https://www.google.com/url?sa=i&url=https%3A%2F%2Fsupport.abp.io%2F&psig=AOvVaw38wr1B-Vu2ch30DQVdaInR&ust=1677062526973000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIDM5s7Bpv0CFQAAAAAdAAAAABAD
+  logoUrl: https://abp.io/img/abp-community-dark.svg
   name: abp.io status
   introTitle: "**ABP.IO status page**"
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
