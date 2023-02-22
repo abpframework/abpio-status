@@ -17,8 +17,8 @@ assignees: # Users to assign downtime issues (optional)
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: st.abp.io
-  # baseUrl: /abpio-status
+  # cname: st.abp.io
+  baseUrl: /abpio-status
   logoUrl: https://www.google.com/url?sa=i&url=https%3A%2F%2Fsupport.abp.io%2F&psig=AOvVaw38wr1B-Vu2ch30DQVdaInR&ust=1677062526973000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIDM5s7Bpv0CFQAAAAAdAAAAABAD
   name: abp.io status
   introTitle: "**ABP.IO status page**"
