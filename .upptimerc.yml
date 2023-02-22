@@ -19,7 +19,9 @@ sites:
     url: https://blog.abp.io
   - name: commercial-demo.abp.io
     url: https://commercial-demo.abp.io
-  
+  - name: commercial-mvc-test-app.abp.io
+    url: https://commercial-mvc-test-app.abp.io
+
 assignees: # Users to assign downtime issues (optional)
   - skoc10
 
