@@ -19,8 +19,6 @@ sites:
     url: https://blog.abp.io
   - name: commercial-demo.abp.io
     url: https://commercial-demo.abp.io
-  - name: commercial-mvc-test-app.abp.io
-    url: https://commercial-mvc-test-app.abp.io
 
 assignees: # Users to assign downtime issues (optional)
   - skoc10
@@ -30,7 +28,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: st.abp.io
   baseUrl: /abpio-status
-  logoUrl: https://abp.io/img/abp-community-dark.svg
+  logoUrl: https://commercial.abp.io/assets/svg/abp-logo.svg
   name: abp.io status
   introTitle: "**ABP.IO status page**"
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
