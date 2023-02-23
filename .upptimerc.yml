@@ -4,21 +4,21 @@ repo: abpio-status # The name of this repository
 
 sites:
   - name: abp.io
-    url: https://abp.io
+    url: https://abp.io/health-status
   - name: community.abp.io
-    url: https://community.abp.io
+    url: https://community.abp.io/health-status
   - name: commercial.abp.io
-    url: https://commercial.abp.io
+    url: https://commercial.abp.io/health-status
   - name: nuget.abp.io
-    url: https://nuget.abp.io
+    url: https://nuget.abp.io/health-status
   - name: docs.abp.io
-    url: https://docs.abp.io
+    url: https://docs.abp.io/health-status
   - name: support.abp.io
-    url: https://support.abp.io
+    url: https://support.abp.io/health-status
   - name: blog.abp.io
-    url: https://blog.abp.io
+    url: https://blog.abp.io/health-status
   - name: commercial-demo.abp.io
-    url: https://commercial-demo.abp.io
+    url: https://commercial-demo.abp.io/health-status
 
 assignees: # Users to assign downtime issues (optional)
   - skoc10
@@ -29,8 +29,8 @@ status-website:
   # cname: st.abp.io
   baseUrl: /abpio-status
   logoUrl: https://commercial.abp.io/assets/svg/abp-logo.svg
-  name: abp.io status
-  introTitle: "**ABP.IO status page**"
+  # name: abp.io status
+  introTitle: "**abp.io status page**"
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
