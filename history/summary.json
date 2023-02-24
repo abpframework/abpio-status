@@ -130,19 +130,19 @@
     "url": "https://commercial-demo.abp.io/health-status",
     "icon": "https://icons.duckduckgo.com/ip3/commercial-demo.abp.io.ico",
     "slug": "commercial-demo-abp-io",
-    "status": "down",
-    "uptime": "99.23%",
-    "uptimeDay": "98.57%",
-    "uptimeWeek": "99.23%",
-    "uptimeMonth": "99.23%",
-    "uptimeYear": "99.23%",
-    "time": 1254,
-    "timeDay": 968,
-    "timeWeek": 1254,
-    "timeMonth": 1254,
-    "timeYear": 1254,
+    "status": "up",
+    "uptime": "99.02%",
+    "uptimeDay": "98.17%",
+    "uptimeWeek": "99.02%",
+    "uptimeMonth": "99.02%",
+    "uptimeYear": "99.02%",
+    "time": 1278,
+    "timeDay": 1081,
+    "timeWeek": 1278,
+    "timeMonth": 1278,
+    "timeYear": 1278,
     "dailyMinutesDown": {
-      "2023-02-24": 21
+      "2023-02-24": 26
     }
   }
 ]
