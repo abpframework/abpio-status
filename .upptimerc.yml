@@ -24,11 +24,13 @@ assignees: # Users to assign downtime issues (optional)
   - skoc10
 
 status-website:
+  theme: dark
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: st.abp.io
-  baseUrl: /abpio-status
+  cname: status.abp.io
+  # baseUrl: /abpio-status
   logoUrl: https://commercial.abp.io/assets/svg/abp-logo-light.svg
+  faviconSvg: https://github.com/abpframework/abpio-status/blob/master/assets/abp-logo-without-text.svg
   name: " "    #abp.io status page
   introTitle: "**abp.io status page**"
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
