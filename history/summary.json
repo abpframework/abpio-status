@@ -5,17 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/abp.io.ico",
     "slug": "abp-io",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 940,
-    "timeDay": 1061,
-    "timeWeek": 940,
-    "timeMonth": 940,
-    "timeYear": 940,
-    "dailyMinutesDown": {}
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 1000,
+    "timeDay": 1462,
+    "timeWeek": 1049,
+    "timeMonth": 1000,
+    "timeYear": 1000,
+    "dailyMinutesDown": {
+      "2023-02-27": 17
+    }
   },
   {
     "name": "community.abp.io",
@@ -23,17 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/community.abp.io.ico",
     "slug": "community-abp-io",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1787,
-    "timeDay": 2068,
-    "timeWeek": 1787,
-    "timeMonth": 1787,
-    "timeYear": 1787,
-    "dailyMinutesDown": {}
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 1903,
+    "timeDay": 2589,
+    "timeWeek": 1987,
+    "timeMonth": 1903,
+    "timeYear": 1903,
+    "dailyMinutesDown": {
+      "2023-02-27": 17
+    }
   },
   {
     "name": "commercial.abp.io",
@@ -41,17 +45,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/commercial.abp.io.ico",
     "slug": "commercial-abp-io",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 867,
-    "timeDay": 938,
-    "timeWeek": 867,
-    "timeMonth": 867,
-    "timeYear": 867,
-    "dailyMinutesDown": {}
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 976,
+    "timeDay": 1608,
+    "timeWeek": 1027,
+    "timeMonth": 976,
+    "timeYear": 976,
+    "dailyMinutesDown": {
+      "2023-02-27": 17
+    }
   },
   {
     "name": "nuget.abp.io",
@@ -59,17 +65,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nuget.abp.io.ico",
     "slug": "nuget-abp-io",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 663,
-    "timeDay": 873,
-    "timeWeek": 663,
-    "timeMonth": 663,
-    "timeYear": 663,
-    "dailyMinutesDown": {}
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 731,
+    "timeDay": 1385,
+    "timeWeek": 848,
+    "timeMonth": 731,
+    "timeYear": 731,
+    "dailyMinutesDown": {
+      "2023-02-27": 17
+    }
   },
   {
     "name": "docs.abp.io",
@@ -77,17 +85,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.abp.io.ico",
     "slug": "docs-abp-io",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1089,
-    "timeDay": 1159,
-    "timeWeek": 1089,
-    "timeMonth": 1089,
-    "timeYear": 1089,
-    "dailyMinutesDown": {}
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 1118,
+    "timeDay": 1484,
+    "timeWeek": 1146,
+    "timeMonth": 1118,
+    "timeYear": 1118,
+    "dailyMinutesDown": {
+      "2023-02-27": 17
+    }
   },
   {
     "name": "support.abp.io",
@@ -95,17 +105,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/support.abp.io.ico",
     "slug": "support-abp-io",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1207,
-    "timeDay": 1287,
-    "timeWeek": 1207,
-    "timeMonth": 1207,
-    "timeYear": 1207,
-    "dailyMinutesDown": {}
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 1271,
+    "timeDay": 2646,
+    "timeWeek": 1305,
+    "timeMonth": 1271,
+    "timeYear": 1271,
+    "dailyMinutesDown": {
+      "2023-02-27": 17
+    }
   },
   {
     "name": "blog.abp.io",
@@ -113,17 +125,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.abp.io.ico",
     "slug": "blog-abp-io",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1293,
-    "timeDay": 780,
-    "timeWeek": 1293,
-    "timeMonth": 1293,
-    "timeYear": 1293,
-    "dailyMinutesDown": {}
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 1165,
+    "timeDay": 1108,
+    "timeWeek": 1018,
+    "timeMonth": 1165,
+    "timeYear": 1165,
+    "dailyMinutesDown": {
+      "2023-02-27": 17
+    }
   },
   {
     "name": "commercial-demo.abp.io",
@@ -131,17 +145,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/commercial-demo.abp.io.ico",
     "slug": "commercial-demo-abp-io",
     "status": "up",
-    "uptime": "99.06%",
-    "uptimeDay": "98.17%",
-    "uptimeWeek": "99.06%",
-    "uptimeMonth": "99.06%",
-    "uptimeYear": "99.06%",
-    "time": 1291,
-    "timeDay": 1170,
-    "timeWeek": 1291,
-    "timeMonth": 1291,
-    "timeYear": 1291,
+    "uptime": "99.60%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.60%",
+    "time": 1393,
+    "timeDay": 1989,
+    "timeWeek": 1383,
+    "timeMonth": 1393,
+    "timeYear": 1393,
     "dailyMinutesDown": {
+      "2023-02-27": 17,
       "2023-02-24": 26
     }
   }
