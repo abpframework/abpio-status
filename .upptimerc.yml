@@ -10,7 +10,7 @@ sites:
   - name: commercial.abp.io
     url: https://commercial.abp.io/health-status
   - name: nuget.abp.io
-    url: https://nuget.abp.io/health-status
+    url: https://nuget-test.abp.io/$API_KEY/v3/package/Volo.Abp.Account.Pro.Public.Web/7.0.0/Volo.Abp.Account.Pro.Public.Web.7.0.0.nupkg
   - name: docs.abp.io
     url: https://docs.abp.io/health-status
   - name: support.abp.io
