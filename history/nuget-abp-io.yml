@@ -1,7 +1,7 @@
-url: https://nuget-test.abp.io/$API_KEY/v3/package/Volo.Abp.Account.Pro.Public.Web/7.0.0/Volo.Abp.Account.Pro.Public.Web.7.0.0.nupkg
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-03-02T08:52:12.029Z
+url: https://nuget.abp.io/health-status
+status: up
+code: 200
+responseTime: 786
+lastUpdated: 2023-03-02T08:56:28.824Z
 startTime: Wed Feb 22 2023 11:52:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
