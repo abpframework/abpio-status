@@ -10,8 +10,8 @@ sites:
   - name: commercial.abp.io
     url: https://commercial.abp.io/health-status
   - name: nuget.abp.io
-    # url: https://nuget.abp.io/health-status
-    url: $API_URL
+    url: https://nuget.abp.io/health-status
+    # url: $API_URL
   - name: docs.abp.io
     url: https://docs.abp.io/health-status
   - name: support.abp.io
@@ -22,7 +22,7 @@ sites:
     url: https://commercial-demo.abp.io/health-status
 
 assignees: # Users to assign downtime issues (optional)
-  - skoc10
+  - voloagent
 
 status-website:
   theme: dark
