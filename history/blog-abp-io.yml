@@ -1,7 +1,7 @@
 url: https://blog.abp.io/health-status
-status: up
-code: 200
-responseTime: 972
-lastUpdated: 2023-03-11T23:18:58.340Z
+status: down
+code: 500
+responseTime: 747
+lastUpdated: 2023-03-12T11:31:39.829Z
 startTime: Wed Feb 22 2023 13:18:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
