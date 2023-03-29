@@ -1,7 +1,7 @@
 url: https://commercial-demo.abp.io/health-status
-status: down
-code: 525
-responseTime: 21281
-lastUpdated: 2023-03-29T23:23:28.491Z
+status: up
+code: 200
+responseTime: 1071
+lastUpdated: 2023-03-29T23:29:31.911Z
 startTime: Wed Feb 22 2023 13:18:12 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
