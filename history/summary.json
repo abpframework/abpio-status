@@ -13,7 +13,7 @@
     "time": 1143,
     "timeDay": 622,
     "timeWeek": 554,
-    "timeMonth": 1254,
+    "timeMonth": 1243,
     "timeYear": 1143,
     "dailyMinutesDown": {
       "2023-03-12": 7,
@@ -35,7 +35,7 @@
     "time": 1989,
     "timeDay": 1073,
     "timeWeek": 1798,
-    "timeMonth": 2059,
+    "timeMonth": 2046,
     "timeYear": 1989,
     "dailyMinutesDown": {
       "2023-03-26": 7,
@@ -82,7 +82,7 @@
     "time": 1113,
     "timeDay": 636,
     "timeWeek": 556,
-    "timeMonth": 1331,
+    "timeMonth": 1326,
     "timeYear": 1113,
     "dailyMinutesDown": {
       "2023-03-17": 52,
@@ -109,7 +109,7 @@
     "time": 1239,
     "timeDay": 544,
     "timeWeek": 557,
-    "timeMonth": 1317,
+    "timeMonth": 1302,
     "timeYear": 1239,
     "dailyMinutesDown": {
       "2023-03-17": 9,
@@ -132,7 +132,7 @@
     "time": 1536,
     "timeDay": 230,
     "timeWeek": 578,
-    "timeMonth": 1721,
+    "timeMonth": 1708,
     "timeYear": 1536,
     "dailyMinutesDown": {
       "2023-03-12": 7,
@@ -155,7 +155,7 @@
     "time": 1093,
     "timeDay": 315,
     "timeWeek": 442,
-    "timeMonth": 1049,
+    "timeMonth": 1042,
     "timeYear": 1093,
     "dailyMinutesDown": {
       "2023-03-12": 7,
@@ -169,15 +169,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/commercial-demo.abp.io.ico",
     "slug": "commercial-demo-abp-io",
     "status": "up",
-    "uptime": "99.63%",
+    "uptime": "99.64%",
     "uptimeDay": "99.58%",
     "uptimeWeek": "99.43%",
     "uptimeMonth": "99.67%",
-    "uptimeYear": "99.63%",
+    "uptimeYear": "99.64%",
     "time": 2235,
     "timeDay": 7755,
     "timeWeek": 4893,
-    "timeMonth": 2734,
+    "timeMonth": 2708,
     "timeYear": 2235,
     "dailyMinutesDown": {
       "2023-03-29": 6,
