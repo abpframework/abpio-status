@@ -5,19 +5,8 @@ repo: abpio-status # The name of this repository
 sites:
   - name: abp.io
     url: https://abp.io/health-status
-  - name: community.abp.io
-    url: https://community.abp.io/health-status
-  - name: commercial.abp.io
-    url: https://commercial.abp.io/health-status
   - name: nuget.abp.io
     url: https://nuget.abp.io/health-status
-    # url: $API_URL
-  - name: docs.abp.io
-    url: https://docs.abp.io/health-status
-  - name: support.abp.io
-    url: https://support.abp.io/health-status
-  - name: blog.abp.io
-    url: https://blog.abp.io/health-status
   - name: commercial-demo.abp.io
     url: https://commercial-demo.abp.io/health-status
 
