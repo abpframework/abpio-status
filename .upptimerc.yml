@@ -7,8 +7,8 @@ sites:
     url: https://abp.io/health-status
   - name: nuget.abp.io
     url: https://nuget.abp.io/health-status
-  - name: commercial-demo.abp.io
-    url: https://commercial-demo.abp.io/health-status
+  - name: demo.abp.io
+    url: https://demo.abp.io/health-status
 
 assignees: # Users to assign downtime issues (optional)
   - voloagent
