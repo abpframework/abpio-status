@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 834,
-    "timeDay": 528,
+    "timeDay": 702,
     "timeWeek": 707,
-    "timeMonth": 704,
+    "timeMonth": 701,
     "timeYear": 829,
     "dailyMinutesDown": {
       "2024-11-26": 290,
@@ -39,10 +39,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
     "time": 1080,
-    "timeDay": 623,
-    "timeWeek": 618,
-    "timeMonth": 615,
-    "timeYear": 1218,
+    "timeDay": 671,
+    "timeWeek": 622,
+    "timeMonth": 618,
+    "timeYear": 1205,
     "dailyMinutesDown": {
       "2025-01-21": 18,
       "2025-01-09": 56,
@@ -74,8 +74,7 @@
       "2024-03-25": 66,
       "2024-03-20": 66,
       "2024-03-18": 7,
-      "2024-03-17": 6,
-      "2024-03-14": 14
+      "2024-03-17": 6
     }
   },
   {
@@ -84,15 +83,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo.abp.io.ico",
     "slug": "demo-abp-io",
     "status": "up",
-    "uptime": "99.66%",
+    "uptime": "99.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.66%",
+    "uptimeYear": "99.67%",
     "time": 965,
-    "timeDay": 925,
-    "timeWeek": 947,
-    "timeMonth": 960,
+    "timeDay": 907,
+    "timeWeek": 933,
+    "timeMonth": 954,
     "timeYear": 965,
     "dailyMinutesDown": {
       "2024-11-26": 290,
