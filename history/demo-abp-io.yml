@@ -1,7 +1,7 @@
 url: https://demo.abp.io/health-status
-status: up
-code: 200
-responseTime: 1074
-lastUpdated: 2025-03-17T23:22:05.316Z
+status: down
+code: 404
+responseTime: 968
+lastUpdated: 2025-03-18T11:08:34.874Z
 startTime: 2024-07-30T14:48:37.334Z
 generator: Upptime <https://github.com/upptime/upptime>
