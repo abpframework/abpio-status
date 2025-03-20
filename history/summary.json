@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 813,
-    "timeDay": 707,
-    "timeWeek": 608,
-    "timeMonth": 689,
+    "timeDay": 644,
+    "timeWeek": 625,
+    "timeMonth": 681,
     "timeYear": 816,
     "dailyMinutesDown": {
       "2024-11-26": 290,
@@ -38,9 +38,9 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.67%",
     "time": 1080,
-    "timeDay": 671,
-    "timeWeek": 599,
-    "timeMonth": 618,
+    "timeDay": 634,
+    "timeWeek": 591,
+    "timeMonth": 609,
     "timeYear": 1055,
     "dailyMinutesDown": {
       "2025-03-19": 15,
@@ -71,8 +71,7 @@
       "2024-03-29": 14,
       "2024-03-28": 7,
       "2024-03-26": 183,
-      "2024-03-25": 66,
-      "2024-03-20": 66
+      "2024-03-25": 66
     }
   },
   {
@@ -82,13 +81,13 @@
     "slug": "demo-abp-io",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "98.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.86%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.67%",
     "time": 964,
-    "timeDay": 947,
-    "timeWeek": 924,
+    "timeDay": 1070,
+    "timeWeek": 941,
     "timeMonth": 934,
     "timeYear": 964,
     "dailyMinutesDown": {
