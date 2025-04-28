@@ -1,7 +1,7 @@
 url: https://nuget.abp.io/health-status
-status: up
-code: 200
-responseTime: 647
-lastUpdated: 2025-04-28T14:58:11.507Z
+status: down
+code: 502
+responseTime: 203
+lastUpdated: 2025-04-28T16:56:19.324Z
 startTime: 2023-02-22T11:52:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
